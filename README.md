@@ -2,7 +2,7 @@
 
 This repository documents completed courses, certificates and historical professional training across **AI security, cybersecurity, DevOps, software development and software testing**.
 
-**Publication status: DRAFT.** The 13 physical PDFs are prepared, but not yet committed to this GitHub branch. **Do not merge until all 13 PDF links below resolve.** Course-completion certificates are not automatically professional licenses.
+**Publication status:** All 13 PDFs are present on this branch and all 13 README file paths were checked. The original PDF contents are presented as credential evidence; course-completion certificates are not automatically professional licenses. Review the public disclosure of personal information before merging.
 
 ## Certificates with original documents
 
