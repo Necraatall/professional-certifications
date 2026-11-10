@@ -8,8 +8,8 @@ The organized source archive is supplied separately in the conversation. The Git
 
 ## Release checklist
 
-- [ ] 13 PDFs committed in their correct directories
-- [ ] 13/13 linked PDF paths open successfully on the PR branch
+- [x] 13 PDFs committed in their correct directories
+- [x] 13/13 linked PDF paths exist on the PR branch (path check; browser rendering not independently tested)
 - [ ] Historical entries accurately labelled as lacking documents
 - [ ] No official ISTQB certification claimed
 - [ ] Public exposure of personal information reviewed
